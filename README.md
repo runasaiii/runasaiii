@@ -31,9 +31,6 @@
 
 📦 Мини-проекты на Django и Flask
 
-📊 GitHub Статистика
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=runasaiii&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runasaiii&layout=compact&theme=tokyonight" height="180"/> </p>
-
 📫 Контакты
 Email: arunakaragulova123@gmail.com
 Telegram: @runasaiii
