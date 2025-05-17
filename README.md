@@ -18,12 +18,12 @@
 ---
 
 ### 🛠 Стек технологий
-
 ```bash
 💻 Python, JavaScript, Java, C++
 🌐 Django, FastAPI, Angular, HTML, CSS
  🗄 PostgreSQL, SQLite
-🔧 Git, GitHub, Linux CLI
+🔧 Git, GitHub
+
 📌 Проекты
 ♻️ Платформа обмена вещами — Django + templates
 
