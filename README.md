@@ -1,36 +1,32 @@
-<h1 align="center">Привет! Я Аруна 👋</h1>
-
+<h1 align="center">Hi there! I'm Aruna 👋</h1>
 <p align="center">
-  🎓 Студентка <strong>KBTU</strong> <br>
-  💻 Разработка веб-приложений на <strong>Python/Django</strong> и <strong>Angular</strong> <br>
-  🚀 Учусь FastAPI и backend-архитектуре
+  🎓 Student at <strong>KBTU</strong> <br>
+  💻 Web developer with focus on <strong>Python/Django</strong> and <strong>Angular</strong> <br>
+  🚀 Currently learning FastAPI and backend architecture
 </p>
 
 ---
 
-### 🧠 О себе
-
-- 🛠 Изучаю: **FastAPI**, **AI-технологии**, **базы данных**
-- 💡 Интересы: backend, API, автоматизация, open source
-- 📚 Проекты: Django, Java (OOP), Angular, PostgreSQL
-- 🧩 Люблю структурировать сложные вещи и учусь быстро
+### 🧠 About Me
+- 🛠 Currently learning: **FastAPI**, **AI technologies**, **Databases**
+- 💡 Interests: Backend, APIs, automation, open source
+- 📚 Experience with: Django, Java (OOP), Angular, PostgreSQL
+- 🧩 Passionate about organizing complex ideas and learning fast
 
 ---
 
-### 🛠 Стек технологий
+### 🛠 Tech Stack
 ```bash
 💻 Python, JavaScript, Java, C++
 🌐 Django, FastAPI, Angular, HTML, CSS
- 🗄 PostgreSQL, SQLite
+🗄 PostgreSQL, SQLite
 🔧 Git, GitHub
 
-📌 Проекты
-♻️ Платформа обмена вещами — Django + templates
+📌 Projects
+♻️ Item Exchange Platform — Django + Templates
+🎓 University Management System — Java (OOP)
+📦 Mini-projects using Django and Flask
 
-🎓 Система университета на Java (OOP)
-
-📦 Мини-проекты на Django и Flask
-
-📫 Контакты
+📫 Contact
 Email: arunakaragulova123@gmail.com
 Telegram: @runasaiii
